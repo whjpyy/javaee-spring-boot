@@ -10,6 +10,8 @@
         <module>javaee-spring-boot-ch01</module>
         <module>javaee-spring-boot-ch02</module>
         <module>javaee-spring-boot-ch03</module>
+        <module>spring-mvc</module>
+        <module>ch04-spring-mvc</module>
     </modules>
     <name>javaee-spring-boot</name>
     <description>JavaEE开发的颠覆者 Spring Boot</description>
